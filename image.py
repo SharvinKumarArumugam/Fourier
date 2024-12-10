@@ -1,3 +1,5 @@
+!pip intasll streamlit
+
 import streamlit as st
 # import cv2
 # To make things easier later, we're also importing numpy and pandas for
