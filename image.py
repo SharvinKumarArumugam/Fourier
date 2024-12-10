@@ -1,4 +1,4 @@
-!pip intasll streamlit
+pip intasll streamlit
 
 import streamlit as st
 # import cv2
