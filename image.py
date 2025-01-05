@@ -5,7 +5,7 @@ import cv2
 # working with sample data.
 import numpy as np
 from PIL import Image
-from streamlit_drawable_canvas import st_canvas
+#from streamlit_drawable_canvas import st_canvas
 
 
 
